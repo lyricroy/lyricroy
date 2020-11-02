@@ -1,4 +1,8 @@
-### Hi there 👋
+# Lyric Roy
+
+I weave soundscapes. For more info visit - 
+
+https://lyricroy.github.io/
 
 <!--
 **lyricroy/lyricroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
