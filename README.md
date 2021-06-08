@@ -1,6 +1,8 @@
 # Lyric Roy
 
-I weave soundscapes. For more info visit - 
+Coddiwompler
+
+For more info visit - 
 
 https://lyricroy.github.io/
 
